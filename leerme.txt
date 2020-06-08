@@ -1,0 +1,2 @@
+este es un bloqueador de anuncios de youtube, donde cuando buscabas algo o estas viendo video aparecen ads en la lista de videos sujeridos!
+esta hecho para trabajar en tampermonkey
